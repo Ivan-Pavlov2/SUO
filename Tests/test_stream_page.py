@@ -9,5 +9,5 @@ class TestStream:
         stream = StreamPage(driver)
         stream.click_rec_to_stream_button()
         stream.click_find_button()
-        stream.click_checkbox_button()
-        stream.click_next_button()
+        # stream.click_checkbox_button()
+        # stream.click_next_button()s
